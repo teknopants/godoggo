@@ -1,0 +1,5 @@
+- 4:3 for IPAD
+
+- make where you can click obvious
+- When press next page, show sign for current page, then go to next page
+- try netlify
